@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"deepanshu",
+        "DB_PASSWORD":"test123",
+        "DB_NAME":"mern-stack-app",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
